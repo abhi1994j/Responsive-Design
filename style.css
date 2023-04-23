@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h2{
+    font-weight: 700;
+    font-style: normal;
+    font-size: 48px;
+    line-height: 59px;
+    color: #141516;
+
+}
+.navs{
+    position: absolute;
+    width: 1140px;
+    height: 46px;
+    left: 150px;
+    top: 31px;
+    z-index: 1;
+}
+.btn-custom{
+    width: 165px;
+    height: 46px;
+    left: 540px;
+    top: 1078px;
+    border-radius: 20px;
+}
+.btn-custom1{
+    width: 165px;
+    height: 46px;
+    left: 540px;
+    top: 1078px;
+    border-radius: 20px;
+    font-size: 14px !important;
+}
+
+#main_nav{
+    color: white;
+}
+header{
+    height: 100vh;
+    width: 100%;
+    background-color: #141516;
+    z-index: 0 !important;
+}
+
+.left_head{
+    color: #FFFFFF;
+    position: absolute;
+    top: 200px;
+    left: 152px;
+    font-weight: 700;
+    font-size: 49px;
+    line-height: 60px;
+    width: 50%;
+    height: 120px;
+}
+.left_para{
+    position: absolute;
+    width: 50%;
+    height: 72px;
+    left: 153px;
+    top: 350px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #FFFFFF;
+
+}
+.left-btn{
+    position: absolute;
+    width: 50%;
+    height: 46px;
+    left: 150px;
+    top: 450px;
+
+}
+.section-about{
+    padding: 40px;
+}
+
